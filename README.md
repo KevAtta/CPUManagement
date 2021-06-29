@@ -1,1 +1,1 @@
-Gestione di CPU generate casualmente seguendo la specifica 
+Gestione di CPU generate casualmente come da specifica
